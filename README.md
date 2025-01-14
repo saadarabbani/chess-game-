@@ -14,7 +14,7 @@ A chess GUI written in C++ using ImGui and OpenGL. It supports Windows and Linux
 
 Clone the repository:
 ``` bash
-git clone --recursive https://github.com/cucumberbolts/Chess.git
+git clone --recursive https://github.com/saadarabbani/chess-game-
 cd Chess
 ```
 Build using CMake:
